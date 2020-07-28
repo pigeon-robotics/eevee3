@@ -1,7 +1,5 @@
 # ev3remote
-Remote control for EV3 Battlebots 
-
-Remote control for the Pigeon Robotics Battlebots Robot Sumo competition, if it ever happens I guess.
+> Remote control for the Pigeon Robotics Battlebots Robot Sumo competition, if it ever happens I guess.
 
 ## Usage
 
