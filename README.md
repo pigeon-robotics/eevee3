@@ -1,15 +1,21 @@
-# ev3remote
-> Remote control for the Pigeon Robotics Battlebots Robot Sumo competition, if it ever happens I guess.
+# eevee3
+> Control your LEGO MINDSTORMS EV3 bricks using, uh, LEGO MINDSTORMS EV3 bricks..
 
 ## Usage
 
-Apply the code to your own robot.
+1. Download the files required
+
+```
+git clone https://github.com/pigeon-robotics/ev3remote.git
+```
+
+2. There are two files for eevee3
 
 ## License
 
 See LICENSE.txt
 
-     Copyright (C) 2020 aidswidjaja
+    Copyright (C) 2020 aidswidjaja
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
