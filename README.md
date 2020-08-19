@@ -1,5 +1,6 @@
 # eevee3
 > Control your LEGO MINDSTORMS EV3 bricks using, uh, LEGO MINDSTORMS EV3 bricks..
+> Supported by Pigeon & Friends Association *NOTE NOT OFFICIAL OR A REGISTERED COMPANY OR ENTITY
 
 ## Usage
 
